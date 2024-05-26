@@ -5,7 +5,15 @@
         "name": "Yılbaşı",
         "date": ["1 Ocak, Pazartesi"]
       },
-
+      {
+        "name": "Ramazan Bayramı",
+        "date": [
+          "Arife: 9 Nisan, Salı",
+          "1. Gün: 10 Nisan, Çarşamba",
+          "2. Gün: 11 Nisan, Perşembe",
+          "3. Gün: 12 Nisan, Cuma"
+        ]
+      },
       {
         "name": "Ulusal Egemenlik ve Çocuk Bayramı",
         "date": ["23 Nisan, Salı"]
@@ -19,19 +27,6 @@
         "date": ["19 Mayıs, Pazar"]
       },
       {
-        "name": "Ramazan Bayramı",
-        "date": [
-          "Arife: 9 Nisan, Salı",
-          "1. Gün: 10 Nisan, Çarşamba",
-          "2. Gün: 11 Nisan, Perşembe",
-          "3. Gün: 12 Nisan, Cuma"
-        ]
-      },
-      {
-        "name": "Demokrasi ve Millî Birlik Günü",
-        "date": ["15 Temmuz, Pazartesi"]
-      },
-      {
         "name": "Kurban Bayramı 2024",
         "date": [
           "Arife: 15 Haziran, Cumartesi",
@@ -40,6 +35,10 @@
           "3. Gün: 18 Haziran, Salı",
           "4. Gün: 19 Haziran, Çarşamba"
         ]
+      },
+      {
+        "name": "Demokrasi ve Millî Birlik Günü",
+        "date": ["15 Temmuz, Pazartesi"]
       },
       {
         "name": "Zafer Bayramı",
@@ -56,6 +55,15 @@
         "date": ["1 Ocak, Çarşamba"]
       },
       {
+        "name": "Ramazan Bayramı",
+        "date": [
+          "Arife: 29 Mart, Cumartesi",
+          "1. Gün: 30 Mart, Pazar",
+          "2. Gün: 31 Mart, Pazartesi",
+          "3. Gün: 1 Nisan, Salı"
+        ]
+      },
+      {
         "name": "Ulusal Egemenlik ve Çocuk Bayramı",
         "date": ["23 Nisan, Çarşamba"]
       },
@@ -68,19 +76,6 @@
         "date": ["19 Mayıs, Pazartesi"]
       },
       {
-        "name": "Ramazan Bayramı",
-        "date": [
-          "Arife: 29 Mart, Cumartesi",
-          "1. Gün: 30 Mart, Pazar",
-          "2. Gün: 31 Mart, Pazartesi",
-          "3. Gün: 1 Nisan, Salı"
-        ]
-      },
-      {
-        "name": "Demokrasi ve Millî Birlik Günü",
-        "date": ["15 Temmuz, Salı"]
-      },
-      {
         "name": "Kurban Bayramı 2025",
         "date": [
           "Arife: 5 Haziran, Perşembe",
@@ -89,6 +84,10 @@
           "3. Gün: 8 Haziran, Pazar",
           "4. Gün: 9 Haziran, Pazartesi"
         ]
+      },
+      {
+        "name": "Demokrasi ve Millî Birlik Günü",
+        "date": ["15 Temmuz, Salı"]
       },
       {
         "name": "Zafer Bayramı",
@@ -105,6 +104,15 @@
         "date": ["1 Ocak, Perşembe"]
       },
       {
+        "name": "Ramazan Bayramı",
+        "date": [
+          "Arife: 19 Mart, Perşembe",
+          "1. Gün: 20 Mart, Cuma",
+          "2. Gün: 21 Mart, Cumartesi",
+          "3. Gün: 22 Mart, Pazar"
+        ]
+      },
+      {
         "name": "Ulusal Egemenlik ve Çocuk Bayramı",
         "date": ["23 Nisan, Perşembe"]
       },
@@ -117,27 +125,18 @@
         "date": ["19 Mayıs, Salı"]
       },
       {
-        "name": "Ramazan Bayramı",
+        "name": "Kurban Bayramı 2026",
         "date": [
-          "Arife: 19 Mart, Perşembe",
-          "1. Gün: 20 Mart, Cuma",
-          "2. Gün: 21 Mart, Cumartesi",
-          "3. Gün: 22 Mart, Pazar"
+          "Arife: 26 Mayıs, Salı",
+          "1. Gün: 27 Mayıs, Çarşamba",
+          "2. Gün: 28 Mayıs, Perşembe",
+          "3. Gün: 29 Mayıs, Cuma",
+          "4. Gün: 30 Mayıs, Cumartesi"
         ]
       },
       {
         "name": "Demokrasi ve Millî Birlik Günü",
         "date": ["15 Temmuz, Çarşamba"]
-      },
-      {
-        "name": "Kurban Bayramı 2026",
-        "date": [
-          "Arife: 25 Mayıs, Pazartesi",
-          "1. Gün: 26 Mayıs, Salı",
-          "2. Gün: 27 Mayıs, Çarşamba",
-          "3. Gün: 28 Mayıs, Perşembe",
-          "4. Gün: 29 Mayıs, Cuma"
-        ]
       },
       {
         "name": "Zafer Bayramı",
@@ -154,18 +153,6 @@
         "date": ["1 Ocak, Cuma"]
       },
       {
-        "name": "Ulusal Egemenlik ve Çocuk Bayramı",
-        "date": ["23 Nisan, Cuma"]
-      },
-      {
-        "name": "Emek ve Dayanışma Günü",
-        "date": ["1 Mayıs, Cumartesi"]
-      },
-      {
-        "name": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
-        "date": ["19 Mayıs, Çarşamba"]
-      },
-      {
         "name": "Ramazan Bayramı",
         "date": [
           "Arife: 9 Mart, Salı",
@@ -175,8 +162,12 @@
         ]
       },
       {
-        "name": "Demokrasi ve Millî Birlik Günü",
-        "date": ["15 Temmuz, Perşembe"]
+        "name": "Ulusal Egemenlik ve Çocuk Bayramı",
+        "date": ["23 Nisan, Cuma"]
+      },
+      {
+        "name": "Emek ve Dayanışma Günü",
+        "date": ["1 Mayıs, Cumartesi"]
       },
       {
         "name": "Kurban Bayramı 2027",
@@ -187,6 +178,14 @@
           "3. Gün: 18 Mayıs, Salı",
           "4. Gün: 19 Mayıs, Çarşamba"
         ]
+      },
+      {
+        "name": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
+        "date": ["19 Mayıs, Çarşamba"]
+      },
+      {
+        "name": "Demokrasi ve Millî Birlik Günü",
+        "date": ["15 Temmuz, Perşembe"]
       },
       {
         "name": "Zafer Bayramı",
@@ -203,6 +202,15 @@
         "date": ["1 Ocak, Cumartesi"]
       },
       {
+        "name": "Ramazan Bayramı",
+        "date": [
+          "Arife: 26 Şubat, Cumartesi",
+          "1. Gün: 27 Şubat, Pazar",
+          "2. Gün: 28 Şubat, Pazartesi",
+          "3. Gün: 29 Şubat, Salı"
+        ]
+      },
+      {
         "name": "Ulusal Egemenlik ve Çocuk Bayramı",
         "date": ["23 Nisan, Pazar"]
       },
@@ -211,31 +219,22 @@
         "date": ["1 Mayıs, Pazartesi"]
       },
       {
+        "name": "Kurban Bayramı 2028",
+        "date": [
+          "Arife: 4 Mayıs, Perşembe",
+          "1. Gün: 5 Mayıs, Cuma",
+          "2. Gün: 6 Mayıs, Cumartesi",
+          "3. Gün: 7 Mayıs, Pazar",
+          "4. Gün: 8 Mayıs, Pazartesi"
+        ]
+      },
+      {
         "name": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
         "date": ["19 Mayıs, Cuma"]
       },
       {
-        "name": "Ramazan Bayramı",
-        "date": [
-          "Arife: 26 Şubat, Pazar",
-          "1. Gün: 27 Şubat, Pazartesi",
-          "2. Gün: 28 Şubat, Salı",
-          "3. Gün: 29 Şubat, Çarşamba"
-        ]
-      },
-      {
         "name": "Demokrasi ve Millî Birlik Günü",
         "date": ["15 Temmuz, Cumartesi"]
-      },
-      {
-        "name": "Kurban Bayramı 2028",
-        "date": [
-          "Arife: 3 Mayıs, Çarşamba",
-          "1. Gün: 4 Mayıs, Perşembe",
-          "2. Gün: 5 Mayıs, Cuma",
-          "3. Gün: 6 Mayıs, Cumartesi",
-          "4. Gün: 7 Mayıs, Pazar"
-        ]
       },
       {
         "name": "Zafer Bayramı",
@@ -252,8 +251,27 @@
         "date": ["1 Ocak, Pazartesi"]
       },
       {
+        "name": "Ramazan Bayramı",
+        "date": [
+          "Arife: 14 Şubat, Çarşamba",
+          "1. Gün: 15 Şubat, Perşembe",
+          "2. Gün: 16 Şubat, Cuma",
+          "3. Gün: 17 Şubat, Cumartesi"
+        ]
+      },
+      {
         "name": "Ulusal Egemenlik ve Çocuk Bayramı",
         "date": ["23 Nisan, Pazartesi"]
+      },
+      {
+        "name": "Kurban Bayramı 2029",
+        "date": [
+          "Arife: 23 Nisan, Pazartesi",
+          "1. Gün: 24 Nisan, Salı",
+          "2. Gün: 25 Nisan, Çarşamba",
+          "3. Gün: 26 Nisan, Perşembe",
+          "4. Gün: 27 Nisan, Cuma"
+        ]
       },
       {
         "name": "Emek ve Dayanışma Günü",
@@ -264,27 +282,8 @@
         "date": ["19 Mayıs, Cumartesi"]
       },
       {
-        "name": "Ramazan Bayramı",
-        "date": [
-          "Arife: 15 Şubat, Perşembe",
-          "1. Gün: 16 Şubat, Cuma",
-          "2. Gün: 17 Şubat, Cumartesi",
-          "3. Gün: 18 Şubat, Pazar"
-        ]
-      },
-      {
         "name": "Demokrasi ve Millî Birlik Günü",
         "date": ["15 Temmuz, Pazar"]
-      },
-      {
-        "name": "Kurban Bayramı 2029",
-        "date": [
-          "Arife: 22 Nisan, Pazar",
-          "1. Gün: 23 Nisan, Pazartesi",
-          "2. Gün: 24 Nisan, Salı",
-          "3. Gün: 25 Nisan, Çarşamba",
-          "4. Gün: 26 Nisan, Perşembe"
-        ]
       },
       {
         "name": "Zafer Bayramı",
@@ -293,202 +292,6 @@
       {
         "name": "Cumhuriyet Bayramı",
         "date": ["29 Ekim, Pazartesi"]
-      }
-    ],
-    "2030": [
-      {
-        "name": "Yılbaşı",
-        "date": ["1 Ocak, Salı"]
-      },
-      {
-        "name": "Ulusal Egemenlik ve Çocuk Bayramı",
-        "date": ["23 Nisan, Salı"]
-      },
-      {
-        "name": "Emek ve Dayanışma Günü",
-        "date": ["1 Mayıs, Çarşamba"]
-      },
-      {
-        "name": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
-        "date": ["19 Mayıs, Pazar"]
-      },
-      {
-        "name": "Ramazan Bayramı",
-        "date": [
-          "Arife: 5 Şubat, Salı",
-          "1. Gün: 6 Şubat, Çarşamba",
-          "2. Gün: 7 Şubat, Perşembe",
-          "3. Gün: 8 Şubat, Cuma"
-        ]
-      },
-      {
-        "name": "Demokrasi ve Millî Birlik Günü",
-        "date": ["15 Temmuz, Pazartesi"]
-      },
-      {
-        "name": "Kurban Bayramı 2030",
-        "date": [
-          "Arife: 12 Nisan, Cuma",
-          "1. Gün: 13 Nisan, Cumartesi",
-          "2. Gün: 14 Nisan, Pazar",
-          "3. Gün: 15 Nisan, Pazartesi",
-          "4. Gün: 16 Nisan, Salı"
-        ]
-      },
-      {
-        "name": "Zafer Bayramı",
-        "date": ["30 Ağustos, Cuma"]
-      },
-      {
-        "name": "Cumhuriyet Bayramı",
-        "date": ["29 Ekim, Salı"]
-      }
-    ],
-    "2031": [
-      {
-        "name": "Yılbaşı",
-        "date": ["1 Ocak, Perşembe"]
-      },
-      {
-        "name": "Ulusal Egemenlik ve Çocuk Bayramı",
-        "date": ["23 Nisan, Perşembe"]
-      },
-      {
-        "name": "Emek ve Dayanışma Günü",
-        "date": ["1 Mayıs, Cuma"]
-      },
-      {
-        "name": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
-        "date": ["19 Mayıs, Salı"]
-      },
-      {
-        "name": "Ramazan Bayramı",
-        "date": [
-          "Arife: 25 Ocak, Cumartesi",
-          "1. Gün: 26 Ocak, Pazar",
-          "2. Gün: 27 Ocak, Pazartesi",
-          "3. Gün: 28 Ocak, Salı"
-        ]
-      },
-      {
-        "name": "Demokrasi ve Millî Birlik Günü",
-        "date": ["15 Temmuz, Perşembe"]
-      },
-      {
-        "name": "Kurban Bayramı 2031",
-        "date": [
-          "Arife: 1 Nisan, Salı",
-          "1. Gün: 2 Nisan, Çarşamba",
-          "2. Gün: 3 Nisan, Perşembe",
-          "3. Gün: 4 Nisan, Cuma",
-          "4. Gün: 5 Nisan, Cumartesi"
-        ]
-      },
-      {
-        "name": "Zafer Bayramı",
-        "date": ["30 Ağustos, Cumartesi"]
-      },
-      {
-        "name": "Cumhuriyet Bayramı",
-        "date": ["29 Ekim, Salı"]
-      }
-    ],
-    "2032": [
-      {
-        "name": "Yılbaşı",
-        "date": ["1 Ocak, Perşembe"]
-      },
-      {
-        "name": "Ulusal Egemenlik ve Çocuk Bayramı",
-        "date": ["23 Nisan, Perşembe"]
-      },
-      {
-        "name": "Emek ve Dayanışma Günü",
-        "date": ["1 Mayıs, Cuma"]
-      },
-      {
-        "name": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
-        "date": ["19 Mayıs, Salı"]
-      },
-      {
-        "name": "Ramazan Bayramı",
-        "date": [
-          "Arife: 14 Ocak, Çarşamba",
-          "1. Gün: 15 Ocak, Perşembe",
-          "2. Gün: 16 Ocak, Cuma",
-          "3. Gün: 17 Ocak, Cumartesi"
-        ]
-      },
-      {
-        "name": "Demokrasi ve Millî Birlik Günü",
-        "date": ["15 Temmuz, Perşembe"]
-      },
-      {
-        "name": "Kurban Bayramı 2032",
-        "date": [
-          "Arife: 21 Mart, Pazar",
-          "1. Gün: 22 Mart, Pazartesi",
-          "2. Gün: 23 Mart, Salı",
-          "3. Gün: 24 Mart, Çarşamba",
-          "4. Gün: 25 Mart, Perşembe"
-        ]
-      },
-      {
-        "name": "Zafer Bayramı",
-        "date": ["30 Ağustos, Pazar"]
-      },
-      {
-        "name": "Cumhuriyet Bayramı",
-        "date": ["29 Ekim, Perşembe"]
-      }
-    ],
-    "2033": [
-      {
-        "name": "Yılbaşı",
-        "date": ["1 Ocak, Cuma"]
-      },
-      {
-        "name": "Ulusal Egemenlik ve Çocuk Bayramı",
-        "date": ["23 Nisan, Cuma"]
-      },
-      {
-        "name": "Emek ve Dayanışma Günü",
-        "date": ["1 Mayıs, Cumartesi"]
-      },
-      {
-        "name": "Atatürk'ü Anma, Gençlik ve Spor Bayramı",
-        "date": ["19 Mayıs, Çarşamba"]
-      },
-      {
-        "name": "Ramazan Bayramı",
-        "date": [
-          "Arife: 3 Ocak, Pazartesi",
-          "1. Gün: 4 Ocak, Salı",
-          "2. Gün: 5 Ocak, Çarşamba",
-          "3. Gün: 6 Ocak, Perşembe"
-        ]
-      },
-      {
-        "name": "Demokrasi ve Millî Birlik Günü",
-        "date": ["15 Temmuz, Cumartesi"]
-      },
-      {
-        "name": "Kurban Bayramı 2033",
-        "date": [
-          "Arife: 10 Mart, Perşembe",
-          "1. Gün: 11 Mart, Cuma",
-          "2. Gün: 12 Mart, Cumartesi",
-          "3. Gün: 13 Mart, Pazar",
-          "4. Gün: 14 Mart, Pazartesi"
-        ]
-      },
-      {
-        "name": "Zafer Bayramı",
-        "date": ["30 Ağustos, Çarşamba"]
-      },
-      {
-        "name": "Cumhuriyet Bayramı",
-        "date": ["29 Ekim, Cumartesi"]
       }
     ]
   }

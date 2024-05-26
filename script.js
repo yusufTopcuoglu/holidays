@@ -29,7 +29,6 @@ function setMainContent() {
     const mainContent = document.getElementById('main-content');
     const yearHolidays = holidays[selectedCountry][selectedYear];
 
-    console.log(yearHolidays[0])
     if (yearHolidays) {
         mainContent.innerHTML = `
             <h2>Holidays in ${selectedYear} (${selectedCountry.toUpperCase()})</h2>

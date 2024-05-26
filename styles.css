@@ -19,6 +19,7 @@ body {
     padding: 1em;
     height: 100%;
     box-sizing: border-box;
+    position: fixed;
 }
 
 .sidebar h2 {
@@ -26,8 +27,8 @@ body {
 }
 
 .sidebar ul {
-    list-style-type: none;
-    padding: 0;
+    list-style-type: disc;
+    padding-left: 1em;
 }
 
 .sidebar ul li {
@@ -43,6 +44,8 @@ body {
     flex: 1;
     padding: 1em;
     box-sizing: border-box;
+    margin-left: 240px;
+    margin-top: 150px;
 }
 
 header {
@@ -50,6 +53,12 @@ header {
     color: white;
     text-align: center;
     padding: 1em 0;
+    margin-left: 215px;
+    margin-right: 15px;
+    position: fixed;
+    left: 0;
+    right: 0;
+    top: 0;
 }
 
 header div {
