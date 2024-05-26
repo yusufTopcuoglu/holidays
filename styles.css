@@ -44,7 +44,7 @@ body {
     flex: 1;
     padding: 1em;
     box-sizing: border-box;
-    margin-left: 240px;
+    margin-left: 220px;
     margin-top: 150px;
 }
 
@@ -53,8 +53,7 @@ header {
     color: white;
     text-align: center;
     padding: 1em 0;
-    margin-left: 215px;
-    margin-right: 15px;
+    margin-left: 200px;
     position: fixed;
     left: 0;
     right: 0;
