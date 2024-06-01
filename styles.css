@@ -177,7 +177,7 @@ footer {
     }
 }
 
-@media (max-width: 1024px) {
+@media (max-width: 1200px) {
     .container {
         flex-direction: column;
         margin-top: 140px; /* Adjust based on the header height */
