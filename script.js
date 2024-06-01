@@ -20,7 +20,9 @@ function showYear(year) {
 
 function updateCountry() {
     const countrySelect = document.getElementById('country-select');
+    const yearSelect = document.getElementById('year-select');
     selectedCountry = countrySelect.value;
+    selectedYear = yearSelect.value;
 
     setMainContent()
 }
