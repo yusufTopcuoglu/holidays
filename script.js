@@ -31,7 +31,7 @@ function setMainContent() {
 
     if (yearHolidays) {
         mainContent.innerHTML = `
-            <h2>Holidays in ${selectedYear} (${selectedCountry.toUpperCase()})</h2>
+            <h2>Türkiyedeki resmi tatil günleri ${selectedYear}</h2>
             <ul class="styled-list">
                 ${yearHolidays.map(holiday =>
             `<li class="list-item">
